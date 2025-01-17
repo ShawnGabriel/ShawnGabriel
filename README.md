@@ -1,8 +1,8 @@
-# Hello 👋
+# Hey future colleagues!
 
-My name is Shawn Intong and I'm an undergraduate student based in Vancouver, Canada 🍁🇨🇦
+My name is Shawn Intong, I'm an undergraduate student based in Vancouver, Canada 🍁🇨🇦
 
-I am taking Geophysics with Data Science as a Minor at the University of British Columbia. You will find my various projects hosted here!
+I am taking Geophysics with Data Science as a Minor at the University of British Columbia. You will find my various projects hosted here! 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shawn-intong)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://shawngabriel.github.io)
@@ -13,8 +13,6 @@ I am taking Geophysics with Data Science as a Minor at the University of British
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -27,7 +25,6 @@ I am taking Geophysics with Data Science as a Minor at the University of British
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 ![SparkSQL](https://img.shields.io/badge/-SparkSQL-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![Regex](https://img.shields.io/badge/-Regex-007EC6?style=flat&logo=regex&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
