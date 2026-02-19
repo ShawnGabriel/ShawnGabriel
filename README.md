@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I’m **Shawn Gabriel Intong**, a third-year Geophysics student with minor in Data Science at the University of British Columbia with a strong interest in quantitative research, computer vision, and computational modeling. I’m particularly drawn to problems that sit at the intersection of theory and computation, where rigorous mathematics meets real-world systems. Whether it’s stochastic processes, optimization, data-driven modeling, or numerical solutions to differential equations, I care about understanding the why behind the method, not just getting the code to run.
+Hi, I’m **Shawn Gabriel Intong**, a third-year Geophysics student with minor in Data Science at the University of British Columbia with a strong interest in ML/Quant dev, computer vision, and computational modeling. I’m particularly drawn to problems that sit at the intersection of theory and computation, where rigorous mathematics meets real-world systems. Whether it’s stochastic processes, optimization, data-driven modeling, or numerical solutions to differential equations, I care about understanding the why behind the method, not just getting the code to run.
 
 ## What I Do
 
