@@ -16,7 +16,7 @@ I work on machine learning-grounded, computation-heavy problems that require bot
 
 ## Work Experience
 
-### Quantitative Developer Intern @ IBM *(Feb 2026 - Present)*
+### Quantitative Developer Intern @ Legacy Bridge Capital *(Feb 2026 - Present)*
 
 * Testing models from papers.
 
