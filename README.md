@@ -1,4 +1,4 @@
-# Muhammad Enrizky Brillian - Machine Learning Developer & Data Scientist
+# Shawn Gabriel Intong
 
 ## About Me
 
