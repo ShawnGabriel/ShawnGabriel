@@ -66,4 +66,4 @@ Built a web-based lecture note editor in React, TypeScript, and Fabric.js suppor
 *University of British Columbia* (2023 - 2027)
 
 * **Funding**: Advanced Indonesian Scholarship (BIM) from Indonesia Ministry of Education (~$380,000)
-* **Activities**: MLE @ MINT, MLE @ UBC AI
+* **Activities**: DS @ MINT, DS @ UBC AI
