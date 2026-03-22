@@ -40,12 +40,12 @@ ation endpoints via FastAPI to support scalable, repeatable model testing, and v
 
 * **Languages**: Python, SQL, JavaScript, TypeScript
 * **Libraries**: NumPy, Pandas, OpenCV, MediaPipe, tidyverse
-* **ETL & Processing**: PySpark, Snowflake, data preprocessing
+* **ETL & Processing**: PySpark, Data Preprocessing
 * **Visualization**: Tableau, Matplotlib, Seaborn
 
 ### Cloud & Infrastructure
 
-* **Platforms**: AWS (Bedrock, RDS), GCP
+* **Platforms**: AWS, GCP
 * **Databases**: SQLite, SQL databases
 * **Web Development**: React, NextJS, NodeJS, Flask, Streamlit
 
