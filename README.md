@@ -26,7 +26,7 @@ I work on machine learning-grounded, computation-heavy problems that require bot
 and failure cases to enable scalable, real-time proctoring for online competitions across 10,000+ concurrent test-takers.
 * Built automated batch inference pipelines in TypeScript and Python, experimenting with scheduling and batching strate-
 gies, for large-volume flagged images of suspected cheaters improving throughput by 80% over the initial pipeline.
-* Developed an LLM evaluation and control system deployed on GCP infrastructure, exposing REST inference and evalu-
+* Developed an LLM evaluation and control system deployed on AWS infrastructure, exposing REST inference and evalu-
 ation endpoints via FastAPI to support scalable, repeatable model testing, and vector search with Elasticsearch.
 
 ## Technical Skills
